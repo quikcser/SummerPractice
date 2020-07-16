@@ -1,0 +1,6 @@
+matlolib
+numpy
+sklearn
+jupyter_client
+nbconvert
+ipykernel
